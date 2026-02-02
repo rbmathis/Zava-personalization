@@ -1,2 +1,5 @@
 # Zava-personalization
-[FlowLens Demo] User personalization engine — Team: Personalization, Group: Marketing Tech
+
+User personalization engine
+
+Update 1 by James Chen
